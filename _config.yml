@@ -30,9 +30,9 @@ force-https: True
 
 lang: "en"
 author: "那一抹绯红"
-title: "{ John Smith }"
-description: "博客和约翰·史密斯的网站，主要为博客技术。表达的意见是我."
-keywords: "smith, jones, personal, jekyll, theme"
+title: " 那一抹绯红 "
+description: "那一抹绯红 的网站，主要为博客技术。."
+keywords: "那一抹绯红, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
 ################
@@ -47,7 +47,7 @@ background-img: "../img/intro-bg.jpg"
 # Dynamic Text on the Header #
 ##############################
 
-dynamic-typing: True
+dynamic-typing: false
 shuffle: True # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
