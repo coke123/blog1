@@ -112,7 +112,7 @@ events:
   - image: "/img/timeline/spidertocat.png"
     date: "May 2, 2016"
     description: "Create my blog!"
-  - image: "/img/timeline/baracktocat.jpg"September
+  - image: "/img/timeline/baracktocat.jpg"
     date: "September 2013 - May 2016"
     description: "Started coding!"
 
