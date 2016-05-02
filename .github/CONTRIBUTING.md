@@ -1,16 +1,17 @@
-Open an Issue in order to file a bug or [suggest](https://github.com/PanosSakkos/personal-jekyll-theme/issues/42) a new feature
 
-If you want to close the issue:
+为了一个bug或[提示]（https://github.com/PanosSakkos/personal-jekyll-theme/issues/42）的新功能，打开一个问题
 
-1. Fork the repository and work on the fix or the feature. Don't forget to add you name in the CONTRIBUTORS file, no matter how small is your fix, even if it's a typo :wink:
-2. Open a Pull Request with commits mentioning which issue are they fixing by adding in their description "Fixes #IssueNumber", in order to auto-resolve the issues after the Pull Request is merged into the master branch.
-3. In case you want to get your Pull Request in the master branch quickly, consider adding a screenshot of before and after your fix.
-4. Consider joining our [Gitter](https://gitter.im/PanosSakkos/personal-jekyll-theme) channel in order to make our communication easier.
+如果你想关闭这个问题：
 
-A few simple rules that should be followed:
+1.叉的修补程序或功能的资料库和工作。不要忘记添加你的贡献者文件名，无论多么小的是你的修复，即使它是一个错字：眨眼：
+拉入请求合并到主分支后2.打开与问题是，他们在他们的描述中“修复#IssueNumber”增加固定提交提一拉请求，以自动解决问题。
+3.如果你想在主分支你拉入请求迅速，考虑加入之前，你的修复后的截图。
+4.考虑为了加入我们的[小胶质（https://gitter.im/PanosSakkos/personal-jekyll-theme）通道，使我们的沟通更加容易。
 
-1. No tabs allowed, two spaces should be used instead.
-2. If you are adding a new feature, update the respective documentation post.
-3. Make sure to test your changes on the mobile rendering as well. It's as important as the desktop view.
-4. Make sure that after your changes the website is responsive, with respect to performance. There should be no lagging and make sure that this is the case when using it in a weak mobile client.
-5. Squash your commits into one commit per resolved issue.
+一些简单的规则应遵循：
+
+1.无标签允许两个空格应该使用。
+2.如果要添加新的功能，更新相应的文档后。
+3.确保测试的手机呈现的变化，以及。这是因为桌面视图一样重要。
+4.请确保您更改后的网站响应，就性能。不应该有滞后，并确保这微弱的移动客户端使用它的时候是这样的。
+5.壁球你的提交到一个解决每个问题提交。
