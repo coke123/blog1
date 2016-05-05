@@ -115,7 +115,8 @@ events:
   - image: "/img/timeline/baracktocat.jpg"
     date: "September 2013 - May 2016"
     description: "Started coding!"
-  - date: " May 5, 2016"
+  - image: "/img/timeline/spidertocat.jpg"
+    date: " May 5, 2016"
     description: "I miss someone!"
 # First image of the Timeline
 
