@@ -118,6 +118,9 @@ events:
   - image: "/img/timeline/spidertocat.png"
     date: " May 5, 2016"
     description: "I miss someone!"
+  - image: "/img/timeline/1.png"
+    date: " june, 2016"
+    description: "graduation"
 # First image of the Timeline
 
 timeline-img: "/img/timeline/default.png"
@@ -136,7 +139,7 @@ email: "earl.skf@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "<br>给自己起这一个名字，是希望能够以另一个身份任性地做自己喜欢做的事……"
+author_blurb: "<br>用这个名字，希望能任性地做自己喜欢做的事……"
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -149,11 +152,11 @@ social:
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+    url: "https://coke123.github.io"
+  # - title: "bitcoin"
+  #   url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+  # - title: "rss"
+  #   url: "/feed.xml"
 
 ############
 # 404 page #
