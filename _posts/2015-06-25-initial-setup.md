@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: hello  world
 category: 随笔
-tags: [ '语录' ]
+tags: [ '微语录' ]
 ---
 
 <p>作为一个平凡人，无论多么辛苦的事，对外人都是不足道的。所以爱人啊，要有爱人，
