@@ -39,7 +39,7 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/black-lab.ico"
 
 background-img: "../img/intro-bg.jpg"
 
@@ -109,13 +109,13 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/4.jpg"
     date: "May 2, 2016"
     description: "Create my blog!"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/11.jpg"
     date: "September 2013 - May 2016"
     description: "Started coding!"
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/13.jpg"
     date: " May 5, 2016"
     description: "I miss someone!"
   - image: "/img/timeline/5.jpg"
@@ -123,24 +123,13 @@ events:
     description: "graduation"
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/default.jpg"
 
 ###########
 # Contact #
 ###########
 
 email: "earl.skf@gmail.com"
-
-################
-# Author Blurb #
-################
-
-# The author blurb goes underneath blog posts.
-# This works best when your author blurb image has a transparent background, or matches your site background color.
-
-# if the author_blurb is not set, then this feature is skipped
-author_blurb: "<br>用这个名字，希望能任性地做自己喜欢做的事……"
-author_blurb_image: "/img/author.png"
 
 ##################
 # Social Buttons #
@@ -162,7 +151,7 @@ author_blurb_image: "/img/author.png"
 # 404 page #
 ############
 
-404-img: "/img/labtocat.png"
+404-img: "/img/Ashe.jpg"
 
 ################################################################################
 
